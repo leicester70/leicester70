@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=leicester70&icon=5&color=9)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on: a small React with the use of MUI component library<br>👯 I’m looking to collaborate on: anything<br>🤝 I’m looking for help with: -<br>🌱 I’m currently learning: Full-Stack Web Development<br>💬 Ask me about: anything
 
