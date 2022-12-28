@@ -19,6 +19,9 @@
 <img src="https://random-memer.herokuapp.com/" width="800px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=leicester70&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- 
+Proudly created with GPRM ( https://gprm.itsvg.in )
+I did absoutely nothing 
+-->
