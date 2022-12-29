@@ -18,9 +18,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="800px"/>
-
----
+![image](https://user-images.githubusercontent.com/82318965/209999015-2d687d80-83c9-48c7-88d5-34192b770228.png)
 
 
 <!-- 
