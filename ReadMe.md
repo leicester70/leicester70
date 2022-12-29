@@ -3,10 +3,10 @@
 # Random Dev Quote
 ![111111111111](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-#! 🌐 Socials:
+# 🌐
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PQzZx74yK5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lester-cheong-a29a4a209) 
 
-# 📊 GitHub Stats:
+# 📊
 [![](https://visitcount.itsvg.in/api?id=leicester70&icon=5&color=9)](https://visitcount.itsvg.in)
 ![](https://github-readme-stats.vercel.app/api?username=leicester70&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leicester70&theme=dark&hide_border=true)<br/>
@@ -17,7 +17,7 @@
 
 ![image](https://images.unsplash.com/photo-1672106157109-056c567e3833?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&)
 
-### 😂 Random Dev Meme
+### OK
 ![image](https://user-images.githubusercontent.com/82318965/209999015-2d687d80-83c9-48c7-88d5-34192b770228.png)
 
 <!-- 
