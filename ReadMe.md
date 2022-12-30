@@ -1,6 +1,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PQzZx74yK5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lester-cheong-a29a4a209) 
 
-![111111111111](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![11111111111111111111111111](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ![image](https://images.unsplash.com/photo-1672106157109-056c567e3833?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&)
 
