@@ -1,5 +1,5 @@
  # Lester Cheong, 
-I'm from Singapore, true Singaporean. I ~crawled out of my mother's vagina~ borned in the year 2001. I love to code, but that does not mean I'm very good at it. I enjoy reading Philosophy
+I'm from Singapore. I ~crawled out of my mother's vagina~ borned in the year 2001. I love to code, but that does not mean I'm very good at it. I enjoy reading Philosophy
 
 
 Anyways, please check out my [Polytechnic Project Repositories](https://github.com/s10208233). I do projects too in an attemp to fight these plauging thoughts of being an **imposter**, thought my projects are shitty.
