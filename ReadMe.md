@@ -1,6 +1,8 @@
-> My real name is Lester, I'm from Singapore. I came out of my mother's in the year 2001.
-I love to code, but that does not mean I'm very good at it.
-Anyways, please check out my [Polytechnic Project Repositories](https://github.com/s10208233). I do projects too! I am not an imposter. Though shitty ones.
+ # Lester Cheong, 
+I'm from Singapore. I came out of my mother's in the year 2001. I love to code, but that does not mean I'm very good at it.
+
+
+Anyways, please check out my [Polytechnic Project Repositories](https://github.com/s10208233). I do projects too in an attemp to fight these plauging thoughts of being an **imposter**, thought my projects are shitty.
 ##
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PQzZx74yK5)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lester-cheong-a29a4a209)
