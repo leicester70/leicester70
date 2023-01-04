@@ -1,7 +1,7 @@
- # Lester Cheong, 
+ # Lester Cheong, [![](https://visitcount.itsvg.in/api?id=leicester70&icon=5&color=9)](https://visitcount.itsvg.in)
+
 I'm from Singapore. I ~crawled out of my mother's vagina~ borned in the year 2001. Yeah, I love coding. It don't mean I'm good at it though; I fight imposter syndrome daily.
 
-[![](https://visitcount.itsvg.in/api?id=leicester70&icon=5&color=9)](https://visitcount.itsvg.in)
 
 
 Anyways, please check out my [Polytechnic Project Repositories](https://github.com/s10208233). I do projects too in an attemp to fight these plauging thoughts of being an **imposter**, thought my projects are shitty.
