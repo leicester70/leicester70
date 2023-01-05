@@ -1,7 +1,10 @@
  # Lester Cheong
 
-### DEAR EMPLOYERS! I love to joke here so please don't take me seriously I can still be professional 👌👨🏻💯💯💯✨
+### _DEAR EMPLOYERS! I love to joke here so please don't take me seriously I can still be professional_ 👌👨🏻💯💯💯✨
 _**I take my coding seriously though.**_
+
+
+
 
 Anyways, welcome to my GitHub👍🏻
 
