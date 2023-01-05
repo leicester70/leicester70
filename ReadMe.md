@@ -1,8 +1,11 @@
  # Lester Cheong
 
-### _DEAR EMPLOYERS! I love to joke here so please don't take me seriously I can still be professional_ 👌👨🏻💯💯💯✨
+### _DEAR EMPLOYERS! I love to joke here so... <br>Please don't take me seriously here, I can still be professional irl_ 👌👨🏻💯💯💯✨
+<br/>
 _**I take my coding seriously though.**_
-
+<br/>
+<br/>
+<br/>
 
 
 
