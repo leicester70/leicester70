@@ -1,6 +1,6 @@
  # Lester Cheong
 
-### welcome to my GitHub, I take things lightly here so please don't take me seriously I can still be professional 👨🏻‍💼👨🏻‍💼👨🏻‍💼💯💯💯👌🏻👌🏻👌🏻
+### welcome to my GitHub, I take things lightly here so please don't take me seriously I can still be professional 👌👨🏻💯💯💯✨
 _I take my coding seriously though._
 
 
