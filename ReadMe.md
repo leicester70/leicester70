@@ -2,15 +2,9 @@
 
 ### _DEAR EMPLOYERS! I love to joke here so... <br>Please don't take me seriously here, I can still be professional irl_ 👌👨🏻💯💯💯✨
 <br/>
-**I take my coding seriously though.** 
-_Not so sure about my commit messages though._
-<br/>
-<br/>
-<br/>
 
 
-
-Anyways, welcome to my GitHub👍🏻
+That being said, welcome to my GitHub 👍🏻
 
 I'm from Singapore. I ~crawled out of my mother's vagina~ borned in the year 2001. Yeah, I love coding. It don't mean I'm good at it though; I continously learn new stuff to fight my imposter syndrome!
 
