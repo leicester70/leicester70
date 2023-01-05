@@ -2,7 +2,7 @@
 
 ### _DEAR EMPLOYERS! I love to joke here so... <br>Please don't take me seriously here, I can still be professional irl_ 👌👨🏻💯💯💯✨
 <br/>
-_**I take my coding seriously though.** Not so sure about my commit messages though._
+_ **I take my coding seriously though.** Not so sure about my commit messages though. _
 <br/>
 <br/>
 <br/>
