@@ -1,7 +1,9 @@
  # Lester Cheong
 
-## welcome to my GitHub, I take things lightly here so please don't take me seriously
+### welcome to my GitHub, I take things lightly here so please don't take me seriously I can still be professional 👨🏻‍💼👨🏻‍💼👨🏻‍💼💯💯💯👌🏻👌🏻👌🏻
 _I take my coding seriously though._
+
+
 
 I'm from Singapore. I ~crawled out of my mother's vagina~ borned in the year 2001. Yeah, I love coding. It don't mean I'm good at it though; I fight imposter syndrome daily.
 
