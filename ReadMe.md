@@ -5,9 +5,9 @@ _**I take my coding seriously though.**_
 
 Anyways, welcome to my GitHub👍🏻
 
-I'm from Singapore. I ~crawled out of my mother's vagina~ borned in the year 2001. Yeah, I love coding. It don't mean I'm good at it though; I fight imposter syndrome daily.
+I'm from Singapore. I ~crawled out of my mother's vagina~ borned in the year 2001. Yeah, I love coding. It don't mean I'm good at it though; I continously learn new stuff to fight my imposter syndrome!
 
-Anyways, please check out my [Polytechnic Project Repositories](https://github.com/s10208233).
+Anyways, please check out my [Polytechnic Project Repositories](https://github.com/s10208233). I did some work there too. (I am worth hiring)
 
 ##
 [![](https://visitcount.itsvg.in/api?id=leicester70&icon=5&color=9)](https://visitcount.itsvg.in)
