@@ -1,4 +1,4 @@
- # My Real Name Is "Lester"
+ # My Real Name Is _Lester_
 
 Please check out my [Polytechnic Project Repositories](https://github.com/s10208233), most of my polytechnic assignments are there. I am too lazy to migrate it over here to my personal.
 
