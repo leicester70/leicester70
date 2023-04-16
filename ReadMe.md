@@ -2,7 +2,7 @@
 
 Please check out my [Polytechnic Project Repositories](https://github.com/s10208233), most of my polytechnic assignments are there. I am too lazy to migrate it over here to my personal.
 
-i am obviously worth hiring.
+current skill level: code monkey
 
 ##
 [![](https://visitcount.itsvg.in/api?id=leicester70&icon=5&color=9)](https://visitcount.itsvg.in)
