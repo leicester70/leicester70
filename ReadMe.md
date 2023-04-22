@@ -1,16 +1,14 @@
  # My Real Name Is _Lester_
- - current skill level: **code monkey**
-
-
- - check out my [Polytechnic Project Repositories](https://github.com/s10208233), most of my polytechnic assignments are there. I am too lazy to migrate it over here to my personal.
- - checkout my linkedin profile
- - i like literature and philosphy
+ - current skill level: **code monkey** (i still have to learn data structures and algorithms or else i am considered lame 😔😔😔
+ - check out my [Polytechnic Project Repositories](https://github.com/s10208233), most of my polytechnic assignments are there. I am too lazy to migrate it over here to my personal. 🤓
+ - checkout my linkedin profile 👍🏻
+ - i like literature and philosphy ☁️
 
 ##
 [![](https://visitcount.itsvg.in/api?id=leicester70&icon=5&color=9)](https://visitcount.itsvg.in)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PQzZx74yK5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lester-cheong-a29a4a209)
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight) </br>
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leicester70&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=leicester70&theme=dark&hide_border=true) 
