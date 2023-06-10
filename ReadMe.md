@@ -1,8 +1,9 @@
  # My Real Name Is _Lester_
- - current skill level: **code monkey** (i still have to learn data structures and algorithms or else i am considered lame 😔😔😔
- - check out my [Polytechnic Project Repositories](https://github.com/s10208233), most of my polytechnic assignments are there. I am too lazy to migrate it over here to my personal. 🤓
- - checkout my linkedin profile 👍🏻
- - i like literature and philosphy ☁️
+ - current skill level: **code monkey**
+ - yet to get my cs degree
+ - check out my [Polytechnic Project Repositories](https://github.com/s10208233), most of my polytechnic assignments are there. I am too lazy to migrate it over here to my personal.
+ - checkout my linkedin profile
+ - i like reading philosphy
 
 ##
 [![](https://visitcount.itsvg.in/api?id=leicester70&icon=5&color=9)](https://visitcount.itsvg.in)
