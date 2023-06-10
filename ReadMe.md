@@ -2,7 +2,7 @@
  - current skill level: **code monkey**
  - yet to get my cs degree
  - check out my [Polytechnic Project Repositories](https://github.com/s10208233) (too lazy to move it here)
- - checkout my linkedin profile
+ - check out my linkedin profile
  - i like reading philosphy
 
 ##
