@@ -1,4 +1,3 @@
- # My Real Name Is _Lester_
  - current skill level: **code monkey** trying my best to grasp, API GWs/MS/SOA
  - yet to get my cs degree
  - check out my [Polytechnic Project Repositories](https://github.com/s10208233) (too lazy to move it here)
